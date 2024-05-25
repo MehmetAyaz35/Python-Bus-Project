@@ -22,12 +22,12 @@ This Python script simulates a bus passenger management system. It provides a me
 ## Setup and Execution
 1. **Clone or download the repository containing the script**:
    ```bash
-   git clone [repository-url]
+   git clone https://github.com/MehmetAyaz35/Python-Bus-Project.git
    ```
 2. **Navigate to the script directory**:
-  ```bash
+   ```bash
    cd [directory-name]
-  ```
+   ```
 3. **Run the script**:
    ```bash
     python slutprojektet_Bussen.py
